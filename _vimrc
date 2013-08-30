@@ -1,0 +1,17 @@
+syntax on
+colorscheme vibrantink
+set ruler
+set hlsearch
+set ts=2
+set sw=2
+set number
+set autoindent
+set smartindent
+set wildmenu
+set scrolloff=5
+set lines=30
+set co=100
+set guifont=나눔고딕코딩:h12
+set backspace=indent,eol,start
+set nobackup
+set directory=.,$TEMP
